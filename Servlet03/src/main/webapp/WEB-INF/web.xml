@@ -1,0 +1,34 @@
+<!DOCTYPE web-app PUBLIC
+ "-//Sun Microsystems, Inc.//DTD Web Application 2.3//EN"
+ "http://java.sun.com/dtd/web-app_2_3.dtd" >
+
+<web-app>
+  <context-param>
+    <param-name>url</param-name>
+    <param-value>jdbc:mysql://localhost:3306/mybatis</param-value>
+  </context-param>
+  <servlet>
+    <servlet-name>one</servlet-name>
+    <servlet-class>com.servlets.OneServlet</servlet-class>
+  </servlet>
+  <servlet-mapping>
+    <servlet-name>one</servlet-name>
+    <url-pattern>/one</url-pattern>
+  </servlet-mapping>
+  <servlet>
+    <servlet-name>two</servlet-name>
+    <servlet-class>com.servlets.TwoServlet</servlet-class>
+  </servlet>
+  <servlet-mapping>
+    <servlet-name>two</servlet-name>
+    <url-pattern>/two</url-pattern>
+  </servlet-mapping>
+  <servlet>
+    <servlet-name>three</servlet-name>
+    <servlet-class>com.servlets.ThreeServlet</servlet-class>
+  </servlet>
+  <servlet-mapping>
+    <servlet-name>three</servlet-name>
+    <url-pattern>/three</url-pattern>
+  </servlet-mapping>
+</web-app>
