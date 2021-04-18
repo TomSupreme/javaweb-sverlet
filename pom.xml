@@ -11,6 +11,9 @@
     <module>Servlet01</module>
     <module>Servlet02</module>
     <module>Servlet03</module>
+      <module>response</module>
+      <module>request</module>
+      <module>servlet-cookie</module>
   </modules>
   <packaging>pom</packaging>
 

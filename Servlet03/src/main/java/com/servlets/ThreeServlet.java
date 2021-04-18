@@ -21,7 +21,7 @@ public class ThreeServlet extends HttpServlet {
         resp.setContentType("text/html;charset=utf-8");
         String user = prop.getProperty("username");
         String pwd = prop.getProperty("password");
-        resp.getWriter().print("用户:"+user+"<br>密码:"+pwd);
+        resp.getWriter().print("用户:" + user + "<br>密码:" + pwd);
     }
 
     @Override

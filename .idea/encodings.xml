@@ -7,5 +7,9 @@
     <file url="file://$PROJECT_DIR$/Servlet02/src/main/resources" charset="UTF-8" />
     <file url="file://$PROJECT_DIR$/Servlet03/src/main/java" charset="UTF-8" />
     <file url="file://$PROJECT_DIR$/Servlet03/src/main/resources" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/request/src/main/java" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/request/src/main/resources" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/response/src/main/java" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/response/src/main/resources" charset="UTF-8" />
   </component>
 </project>

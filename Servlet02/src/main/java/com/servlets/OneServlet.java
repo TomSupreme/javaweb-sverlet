@@ -19,7 +19,7 @@ public class OneServlet extends HttpServlet {
 //        this.getServletContext(); Servlet上下文
         ServletContext context = this.getServletContext();
 
-        String username = "汤世叶";
+        String username = "tsy";
         String password = "123";
 
         context.setAttribute("username", username);
