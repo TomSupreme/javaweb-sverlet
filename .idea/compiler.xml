@@ -6,6 +6,7 @@
         <sourceOutputDir name="target/generated-sources/annotations" />
         <sourceTestOutputDir name="target/generated-test-sources/test-annotations" />
         <outputRelativeToContentRoot value="true" />
+        <module name="servlet-session" />
         <module name="Servlet03" />
         <module name="Servlet02" />
         <module name="Servlet01" />
