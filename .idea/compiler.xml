@@ -10,6 +10,7 @@
         <module name="Servlet03" />
         <module name="Servlet02" />
         <module name="Servlet01" />
+        <module name="jsp" />
         <module name="servlet-cookie" />
         <module name="request" />
         <module name="response" />

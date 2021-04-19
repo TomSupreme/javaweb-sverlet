@@ -7,13 +7,16 @@ import javax.servlet.http.HttpServletResponse;
 import javax.servlet.http.HttpSession;
 import java.io.IOException;
 
+/**
+ * @author supreme
+ */
 public class TwoServlet extends HttpServlet {
 
     @Override
     protected void doGet(HttpServletRequest req, HttpServletResponse resp) throws ServletException, IOException {
         HttpSession session = req.getSession();
-        Object name = session.getAttribute("name");
+        ServletDemo name = (ServletDemo) session.getAttribute("name");
 
-        resp.getWriter().write("xx:" + name);
+        resp.getWriter().write("xx:" + name.toString());
     }
 }

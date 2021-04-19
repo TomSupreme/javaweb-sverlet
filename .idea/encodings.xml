@@ -2,14 +2,17 @@
 <project version="4">
   <component name="Encoding">
     <file url="file://$PROJECT_DIR$/Servlet01/src/main/java" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/Servlet01/src/main/resources" charset="UTF-8" />
     <file url="file://$PROJECT_DIR$/Servlet02/src/main/java" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/Servlet02/src/main/resources" charset="UTF-8" />
     <file url="file://$PROJECT_DIR$/Servlet03/src/main/java" charset="UTF-8" />
     <file url="file://$PROJECT_DIR$/Servlet03/src/main/resources" charset="UTF-8" />
     <file url="file://$PROJECT_DIR$/request/src/main/java" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/request/src/main/resources" charset="UTF-8" />
     <file url="file://$PROJECT_DIR$/response/src/main/java" charset="UTF-8" />
     <file url="file://$PROJECT_DIR$/response/src/main/resources" charset="UTF-8" />
     <file url="file://$PROJECT_DIR$/servlet-cookie/src/main/java" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/servlet-cookie/src/main/resources" charset="UTF-8" />
     <file url="file://$PROJECT_DIR$/servlet-session/src/main/java" charset="UTF-8" />
-    <file url="file://$PROJECT_DIR$/servlet-session/src/main/resources" charset="UTF-8" />
   </component>
 </project>
